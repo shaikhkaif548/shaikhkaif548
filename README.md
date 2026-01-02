@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=shaikhkaif548)
+
 # Hi, I’m Shaikh Kaif 👋
 
 🎓 MSc Computer Science student  
