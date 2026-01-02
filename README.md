@@ -1,16 +1,33 @@
-- 👋 Hi, I’m @shaikhkaif548!!
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m Shaikh Kaif 👋
 
-<!---
-shaikhkaif548/shaikhkaif548 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-hehehehehehheheheheheheheheh
---->
-## subhesader
-dsadsadsadsadsa
+🎓 MSc Computer Science student  
+🤖 Interested in Machine Learning, NLP, and AI systems  
+🧠 Working with PyTorch, Hugging Face Transformers, and FastAPI  
 
-## local development
+---
 
-1, helloo hi hahahahahh
+## 🔬 What I’m working on
+- Fine-tuning transformer models for NLP tasks
+- Building ML-powered chatbots and APIs
+- Strengthening fundamentals in ML & deep learning
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python, PHP, SQL  
+- **ML/AI:** PyTorch, Hugging Face, NLP, Deep Learning  
+- **Frameworks:** FastAPI, React  
+- **Tools:** Git, Linux, Jupyter Notebook  
+
+---
+
+## 📌 Featured Projects
+- **IMDB Sentiment Classifier (BERT)** – NLP classification using Hugging Face  
+- **KaifGPT** – LLM-based chatbot with FastAPI backend  
+- **Student Score Predictor** – Regression model in PyTorch  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/kaif
+- Email: shaikhkaif548@email.com
