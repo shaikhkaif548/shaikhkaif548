@@ -31,5 +31,7 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: shaikh-kaif-ahmed-irfan-ahmed-538b53239
+- LinkedIn: www.linkedin.com/in/
+shaikh-kaif-ahmed-irfan-ahmed-538b53239
+
 - Email: shaikhkaif548@email.com
